@@ -25,6 +25,7 @@ header{
     position: sticky;
     top: 0;
     background-color: white;
+    opacity: 0.8;
 }
 .bars{
     font-size: 40px;
